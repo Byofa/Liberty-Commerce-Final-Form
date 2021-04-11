@@ -1,2 +1,5 @@
-# Liberty-Commerce-Final-Form
-First full e-commerce website using the framework Laravel.
+# Groupe de nouar_a
+
+<p>php artisan migrate --seed</p>
+<p>php artisan migrate:fresh --seed</p>
+<p>php artisan storage:link</p>
