@@ -4,16 +4,16 @@ Laravel Website about billard.
 
 ## Description
 ### Instructions
-You decide to start your own e-commerce company.
-The objective of this project will be to build your company's website using the Laravel framework.
+You decide to start your own e-commerce company.  
+The objective of this project will be to build your company's website using the Laravel framework.  
 You can choose the type of product you will sell via your site (within reason).
 
 ### Objectives
-Be able to create quick views to prepare for development
-Master HTML tags to form your view
-Master CSS to enhance your view
-Master PHP framework.
-Master Javascript to glorify your view.
+Be able to create quick views to prepare for development.  
+Master HTML tags to form your view.  
+Master CSS to enhance your view.  
+Master PHP framework.  
+Master Javascript to glorify your view.  
 ## Getting Started
 
 ### Dependencies
@@ -23,6 +23,10 @@ Master Javascript to glorify your view.
 ### Installing
 
 * git clone or download the repository in gitlab.
+* use composer to install vendor.
+```
+composer update
+```
 * use the following commands to make the migration and the admin user.
 ```
 php artisan migrate --seed
